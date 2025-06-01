@@ -21,7 +21,7 @@ using Il2CppAssets.Scripts.Unity.UI_New.InGame.TowerSelectionMenu;
 #endif
 
 [assembly: MelonInfo(typeof(MelonMain), ModHelper.Name, ModHelper.Version, ModHelper.Author)]
-[assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
+[assembly: MelonGame("Ninja Kiwi", "Bloons TD 6")]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6-Epic")]
 [assembly: MelonPriority(-1000)]
 [assembly: MelonOptionalDependencies("NAudio.Wasapi", "Il2CppFacepunch.Steamworks")]
